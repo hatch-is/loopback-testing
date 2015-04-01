@@ -1,6 +1,6 @@
 {
   "name": "hatch-loopback-testing",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Utilities for testing LoopBack applications",
   "main": "index.js",
   "scripts": {
